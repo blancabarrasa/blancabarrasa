@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @blancabarrasa
 - 👀 I’m interested in all things computer science!
-- 🌱 I’m currently working on a flashcard project!
-- 💞️ I’m not currently looking to collaborate unless you're a nerd like me 🤓
+- 🌱 I’m currently working on a database project!
+- 💞️ I’m not currently looking to collaborate 🤓
 - 📫 How to reach me: not hiring
 
 <!---
